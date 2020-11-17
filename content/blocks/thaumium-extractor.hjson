@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: "Thaumium Extractor"
 description: "Extracts pure thaumium from thaumium ore, but requires large amounts of energy to do so."
 liquidCapacity: 100
@@ -24,3 +24,4 @@ requirements: [
 ]
 idleSound: door
 idleSoundVolume: 0.5
+category: crafting
