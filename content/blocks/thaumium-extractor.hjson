@@ -6,7 +6,7 @@ outputLiquid: {
   liquid: pure-thaumium
   amount: 10
 }
-size: 3
+size: 2
 hasPower: true
 hasLiquids: true
 craftTime: 8
