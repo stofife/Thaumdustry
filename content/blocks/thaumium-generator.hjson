@@ -8,7 +8,6 @@ hasLiquids: true
 craftTime: 10
 powerProduction: 8
 consumes: {
-  power: 0.7
   liquid: {
     liquid: pure-thaumium
     amount: 1.5
