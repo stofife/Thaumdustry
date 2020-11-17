@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: GenericSmelter
 name: "Thaumium Extractor"
 description: "Extracts pure thaumium from thaumium ore, but requires large amounts of energy to do so."
 liquidCapacity: 100
@@ -22,5 +22,5 @@ requirements: [
   titanium/400
   phase-fabric/80
 ]
-idleSound: conveyor
+idleSound: door
 idleSoundVolume: 0.5
