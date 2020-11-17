@@ -7,10 +7,15 @@ hasPower: true
 hasLiquids: true
 craftTime: 10
 powerProduction: 8
+itemduration: 20
 consumes: {
+  /*items: {
+    items: [
+      raw-thaumium/1
+    ]
+  }*/
   liquid: {
-    liquid: pure-thaumium
-    amount: 1.5
+    liquid: pure-thaumium/0.5
   }
 }
 requirements: [
