@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: SingleTypeGenerator
 name: Thaumium Generator
 description: Power UwU.
 liquidCapacity: 200
