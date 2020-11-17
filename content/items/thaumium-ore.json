@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Thaumium Ore",
+	"description": "A piece of rock infused with Thaumium",
+	"cost": 1.2,
+	"color": "e6edf0",
+	"hardness": 2
+}

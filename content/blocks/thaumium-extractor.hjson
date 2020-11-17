@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: "Thaumium Extractor"
+description: "Extracts pure thaumium from thaumium ore, but requires large amounts of energy to do so."
+liquidCapacity: 100
+outputLiquid: {
+  liquid: thaumium
+  amount: 10
+}
+size: 3
+hasPower: true
+hasLiquids: true
+craftTime: 8
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.2
+  item: thaumium-ore
+}
+requirements: [
+  lead/400
+  silicon/120
+  thorium/200
+  titanium/400
+  phase-fabric/80
+]
+idleSound: conveyor
+idleSoundVolume: 0.5
