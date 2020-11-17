@@ -1,5 +1,5 @@
 type: material
 name: Raw Thaumium
 description: A piece of rock infused with thaumium.
-hardness: 3
+hardness: 4
 cost: 2
