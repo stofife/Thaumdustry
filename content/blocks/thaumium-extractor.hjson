@@ -4,7 +4,7 @@ description: "Extracts pure thaumium from thaumium ore, but requires large amoun
 liquidCapacity: 100
 outputLiquid: {
   liquid: pure-thaumium
-  amount: 10
+  amount: 5
 }
 size: 2
 hasPower: true
@@ -13,7 +13,7 @@ craftTime: 8
 updateEffect: smeltsmoke
 consumes: {
   power: 1.2
-  item: raw-thaumium/2
+  item: raw-thaumium
 }
 requirements: [
   lead/400
