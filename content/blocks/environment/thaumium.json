@@ -1,5 +1,5 @@
 {
-	"name": "Thaumium",
+	"name": "thaumium",
 	"type": "OreBlock",
 	"itemDrop": "thaumium-ore",
 	"variants": 2,
