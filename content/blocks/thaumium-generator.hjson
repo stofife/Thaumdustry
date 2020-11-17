@@ -11,11 +11,13 @@ itemduration: 20
 consumes: {
   /*items: {
     items: [
-      raw-thaumium/1
+      raw-thaumium
+      amount: 1
     ]
   }*/
   liquid: {
-    liquid: pure-thaumium/0.5
+    liquid: pure-thaumium
+    amount: 0.5
   }
 }
 requirements: [
