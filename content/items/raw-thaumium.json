@@ -1,8 +1,7 @@
 {
 	"type": "material",
-	"name": "Raw thaumium",
+	"name": "Raw Thaumium",
 	"description": "A piece of rock infused with thaumium",
 	"cost": 1.2,
-	"color": "e6edf0",
 	"hardness": 2
 }
