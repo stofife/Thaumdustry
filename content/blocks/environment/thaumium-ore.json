@@ -1,8 +1,0 @@
-{
-	"name": "Thaumium Ore",
-	"type": "OreBlock",
-	"itemDrop": "raw-thaumium",
-	"variants": 2,
-	"oreDefault": true,
-	"oreThreshold": 0.2
-}
