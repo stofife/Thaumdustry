@@ -2,7 +2,7 @@
 	"name": "Thaumium",
 	"type": "OreBlock",
 	"itemDrop": "thaumium-ore",
-	"variants": 2,
+	"variants": 1,
 	"oreDefault": true,
 	"oreScale": 23.87,
 	"oreThreshold": 0.4
