@@ -13,7 +13,7 @@ craftTime: 8
 updateEffect: smeltsmoke
 consumes: {
   power: 1.2
-  item: thaumium-ore
+  item: raw-thaumium
 }
 requirements: [
   lead/400
