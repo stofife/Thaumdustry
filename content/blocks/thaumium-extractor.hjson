@@ -3,7 +3,7 @@ name: "Thaumium Extractor"
 description: "Extracts pure thaumium from thaumium ore, but requires large amounts of energy to do so."
 liquidCapacity: 100
 outputLiquid: {
-  liquid: thaumium
+  liquid: pure-thaumium
   amount: 10
 }
 size: 3
