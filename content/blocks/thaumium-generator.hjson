@@ -4,17 +4,17 @@ description: Power UwU.
 liquidCapacity: 200
 size: 3
 hasPower: true
-hasItems: true
+hasItems: false
 hasLiquids: true
 craftTime: 10
 powerProduction: 8
 itemduration: 20
 consumes: {
-  items: {
+  /*items: {
     items: [
       raw-thaumium/2
     ]
-  }
+  }*/
   liquid: {
     liquid: pure-thaumium
     amount: 0.5
