@@ -12,8 +12,7 @@ itemduration: 20
 consumes: {
   items: {
     items: [
-      raw-thaumium
-      amount: 1
+      raw-thaumium/2
     ]
   }
   liquid: {
