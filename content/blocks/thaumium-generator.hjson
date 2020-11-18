@@ -11,14 +11,19 @@ powerProduction: 16
 itemDuration: 30
 liquidBoostIntensity: 1.8
 consumes: {
-  liquid: {
-    liquid: diluted-thaumium
-    amount: 0.25
+  items: {
+    items:[
+      thaumium/1
+    ]
+  }
 
-		liquid: water
-		amount: 0.12
-		booster: true
-		optional: true
+  liquid: {
+    liquid: [
+      cryofluid/1
+    ]
+    amount: 0.25
+    optional: true
+    booster: true
   }
 }
 requirements: [
