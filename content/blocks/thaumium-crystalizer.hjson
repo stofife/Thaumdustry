@@ -7,7 +7,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 craftTime: 40
-updateEffect: teleportActivate
+updateEffect: melting
 productionTime: 10
 consumes: {
   power: 0.7
