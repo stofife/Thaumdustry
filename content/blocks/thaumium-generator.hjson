@@ -13,7 +13,7 @@ liquidBoostIntensity: 1.8
 consumes: {
   items: {
     items: [
-      mystical-compound/1
+      thorium/1
     ]
   }
   liquid: {

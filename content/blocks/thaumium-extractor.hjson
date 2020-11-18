@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: "Thaumium Extractor"
-description: "Extracts pure thaumium from thaumium ore, but requires large amounts of energy to do so."
+description: "Diluted thaumium from thaumium ore into water, but requires large amounts of energy to do so."
 liquidCapacity: 100
 outputLiquid: {
   liquid: diluted-thaumium

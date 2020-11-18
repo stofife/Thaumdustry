@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: "Thaumium Crystalizer"
+description: "Extracts pure thaumium from diluted thaumium."
+liquidCapacity: 100
+size: 4
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  liquid: {
+    liquid: diluted-thaumium
+    amount: 0.25
+  }
+}
+outputItem: electrum/1
+requirements: [
+  lead/500
+  thorium/150
+]
+category: crafting
