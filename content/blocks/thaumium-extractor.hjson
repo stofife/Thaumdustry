@@ -20,7 +20,7 @@ consumes: {
   }
 }
 requirements: [
-  lead/500
+  lead/400
   thorium/150
   graphite/200
 ]
