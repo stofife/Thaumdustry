@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: GenericSmelter
 flameColor: b175e6
 name: "Thaumium Crystalizer"
 description: "Extracts pure thaumium from diluted thaumium."
@@ -15,10 +15,6 @@ consumes: {
   liquid: {
     liquid: diluted-thaumium
     amount: 0.10
-    liquid: cryofluid
-    amount: 0.12
-    optional: true
-    booster:true
   }
 
 }
