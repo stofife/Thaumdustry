@@ -4,7 +4,7 @@ description: "Extracts pure thaumium from thaumium ore, but requires large amoun
 liquidCapacity: 100
 outputLiquid: {
   liquid: pure-thaumium
-  amount: 5
+  amount: 10
 }
 size: 2
 hasPower: true
@@ -22,6 +22,6 @@ requirements: [
   titanium/400
   phase-fabric/80
 ]
-idleSound: door
-idleSoundVolume: 0.5
+idleSound: machine
+idleSoundVolume: 0.25
 category: crafting

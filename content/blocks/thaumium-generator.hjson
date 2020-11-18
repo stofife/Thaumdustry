@@ -1,7 +1,7 @@
 type: SingleTypeGenerator
 name: Thaumium Generator
 description: Power UwU.
-liquidCapacity: 200
+liquidCapacity: 100
 size: 3
 hasPower: true
 hasItems: false
@@ -12,12 +12,12 @@ itemDuration: 10
 consumes: {
   items: {
     items: [
-      thorium/2
+      thorium/1
     ]
   }
   liquid: {
     liquid: pure-thaumium
-    amount: 1
+    amount: 0.5
   }
 }
 requirements: [
