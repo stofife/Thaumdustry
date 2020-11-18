@@ -13,7 +13,7 @@ craftTime: 8
 updateEffect: smeltsmoke
 consumes: {
   power: 1.2
-  item: raw-thaumium
+  item: raw-thaumium/0.75
 
   liquid: {
     liquid: water
