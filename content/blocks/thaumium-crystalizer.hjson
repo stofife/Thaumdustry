@@ -14,7 +14,8 @@ consumes: {
   liquid: {
     liquid: diluted-thaumium
     amount: 0.25
-    
+  }
+  liquid: {
     liquid: cryofluid
     amount: 0.12
     booster: true
