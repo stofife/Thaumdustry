@@ -7,7 +7,7 @@ hasPower: true
 hasItems: false
 hasLiquids: true
 craftTime: 10
-powerProduction: 14
+powerProduction: 14.5
 itemDuration: 30
 consumes: {
   items: {
