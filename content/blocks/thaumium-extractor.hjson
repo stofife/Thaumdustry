@@ -20,11 +20,9 @@ consumes: {
   }
 }
 requirements: [
-  lead/400
-  silicon/120
-  thorium/100
-  titanium/150
-  phase-fabric/80
+  lead/500
+  thorium/150
+  graphite/200
 ]
 idleSound: machine
 idleSoundVolume: 0.25

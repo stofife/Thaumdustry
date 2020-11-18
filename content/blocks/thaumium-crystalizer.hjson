@@ -19,8 +19,10 @@ consumes: {
 }
 outputItem: thaumium/1
 requirements: [
-  lead/500
-  thorium/150
-  graphite/200
+  lead/400
+  silicon/120
+  thorium/100
+  titanium/150
+  phase-fabric/80
 ]
 category: crafting
