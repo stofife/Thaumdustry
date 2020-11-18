@@ -8,13 +8,16 @@ hasLiquids: true
 hasItems: true
 craftTime: 40
 updateEffect: mine
-updateEffect: purify
 productionTime: 10
 consumes: {
   power: 0.7
   liquid: {
     liquid: diluted-thaumium
     amount: 0.10
+    liquid: cryofluid
+    amount: 0.12
+    optional: true
+    booster:true
   }
 
 }
