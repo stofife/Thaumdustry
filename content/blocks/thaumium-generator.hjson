@@ -9,7 +9,6 @@ hasLiquids: true
 craftTime: 10
 powerProduction: 16
 itemDuration: 30
-liquidBoostIntensity: 1.8
 consumes: {
   items: {
     items:[
@@ -18,7 +17,7 @@ consumes: {
   }
 
   liquid: {
-    liquid: cryofluid
+    liquid: water
     amount: 0.25
     optional: true
     booster: true

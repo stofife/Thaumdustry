@@ -12,8 +12,14 @@ productionTime: 10
 consumes: {
   power: 0.8
   liquid: {
-    liquid: diluted-thaumium
-    amount: 0.10
+    liquid: [
+      diluted-thaumium/0.10
+    ]
+    liquid: [
+      cryofluid/0.12
+      optional: true
+      booster: true
+    ]
   }
 
 }
