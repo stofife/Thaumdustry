@@ -7,12 +7,13 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 craftTime: 60
+productionTime: 10
 updateEffect: smeltsmoke
 consumes: {
   power: 0.7
   liquid: {
     liquid: diluted-thaumium
-    amount: 0.25
+    amount: 0.10
   }
 
 }
