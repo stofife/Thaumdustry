@@ -8,6 +8,7 @@ hasLiquids: true
 hasItems: true
 craftTime: 40
 updateEffect: mine
+updateEffect: purify
 productionTime: 10
 consumes: {
   power: 0.7
