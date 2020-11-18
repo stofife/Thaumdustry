@@ -11,11 +11,6 @@ powerProduction: 16
 itemDuration: 30
 liquidBoostIntensity: 1.8
 consumes: {
-  items: {
-    items: [
-      thaumium/1
-    ]
-  }
   liquid: {
     liquid: diluted-thaumium
     amount: 0.25
