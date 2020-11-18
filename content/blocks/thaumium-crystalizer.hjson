@@ -10,10 +10,16 @@ craftTime: 60
 updateEffect: smeltsmoke
 liquidBoostIntensity: 2.4
 consumes: {
-  power: 0.7
   liquid: {
     liquid: diluted-thaumium
     amount: 0.25
+  }
+  power: 0.7
+  liquid: {
+    liquid: cryofluid
+    amount: 0.12
+    booster: true
+    optional: true
   }
 }
 outputItem: thaumium/1
