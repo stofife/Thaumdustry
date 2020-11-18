@@ -21,5 +21,6 @@ outputItem: thaumium/1
 requirements: [
   lead/500
   thorium/150
+  graphite/200
 ]
 category: crafting

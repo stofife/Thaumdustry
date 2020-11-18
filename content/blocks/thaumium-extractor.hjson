@@ -9,7 +9,7 @@ outputLiquid: {
 size: 2
 hasPower: true
 hasLiquids: true
-craftTime: 8
+craftTime: 6
 updateEffect: smeltsmoke
 consumes: {
   power: 1.2
@@ -22,8 +22,8 @@ consumes: {
 requirements: [
   lead/400
   silicon/120
-  thorium/200
-  titanium/400
+  thorium/100
+  titanium/150
   phase-fabric/80
 ]
 idleSound: machine
