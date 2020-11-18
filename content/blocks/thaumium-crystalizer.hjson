@@ -1,4 +1,4 @@
-type: Drill
+type: GenericSmelter
 name: "Thaumium Crystalizer"
 description: "Extracts pure thaumium from diluted thaumium."
 liquidCapacity: 100
