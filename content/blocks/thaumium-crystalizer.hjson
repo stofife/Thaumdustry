@@ -1,5 +1,5 @@
 type: GenericSmelter
-flameColor: b175e6
+flameColor: bb6ede
 name: "Thaumium Crystalizer"
 description: "Extracts pure thaumium from diluted thaumium."
 liquidCapacity: 100
