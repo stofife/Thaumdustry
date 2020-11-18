@@ -15,7 +15,7 @@ consumes: {
     amount: 0.25
   }
 }
-outputItem: electrum/1
+outputItem: thaumium/1
 requirements: [
   lead/500
   thorium/150
