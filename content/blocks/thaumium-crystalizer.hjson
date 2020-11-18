@@ -8,7 +8,6 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 craftTime: 40
-craftEffect: smoke
 productionTime: 10
 consumes: {
   power: 0.7
