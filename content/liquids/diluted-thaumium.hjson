@@ -1,5 +1,5 @@
 name: Diluted Thaumium
 description: Diluted form of thaumium.
-temperature: 0.12
-heatCapacity: 0.98
+temperature: 0.08
+heatCapacity: 0.985
 color: ab66d9
