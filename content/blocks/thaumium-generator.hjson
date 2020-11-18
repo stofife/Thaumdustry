@@ -12,11 +12,11 @@ itemDuration: 30
 consumes: {
   items: {
     items: [
-      thorium/1
+      thaumium/1
     ]
   }
   liquid: {
-    liquid: pure-thaumium
+    liquid: diluted-thaumium
     amount: 0.25
   }
 }

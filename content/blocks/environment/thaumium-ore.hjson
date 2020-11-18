@@ -3,4 +3,4 @@ type: OreBlock
 itemDrop: raw-thaumium
 variants: 2
 oreDefault: true
-oreThreshold: 0.89
+oreThreshold: 0.88
