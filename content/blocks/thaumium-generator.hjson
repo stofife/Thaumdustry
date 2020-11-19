@@ -3,7 +3,6 @@ name: Thaumium Generator
 description: Power UwU.
 size: 3
 hasLiquids: true
-craftTime: 10
 powerProduction: 16
 itemDuration: 60
 generateEffect: reactorsmoke
@@ -22,6 +21,7 @@ requirements: [
   titanium/200
   thorium/100
   silicon/160
-  metaglass/50
+  metaglass/80
+  thaumium/80
 ]
 category: power

@@ -1,0 +1,29 @@
+type: NuclearReactor
+name: Fusion reactor
+description: Experimental reactor that uses the fusion of hydrogen molecules to create electricity.
+size: 5
+powerProduction: 40
+itemDuration: 80
+lightColor: fbb0ff
+coolColor: 682e6b
+hotColor: ffffff
+generateEffect: reactorsmoke
+
+consumes: {
+  items: {
+    items:[
+      thaumium/1
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 0.48
+  }
+}
+requirements: [
+  titanium/200
+  thorium/100
+  silicon/160
+  thaumium/200
+]
+category: power
