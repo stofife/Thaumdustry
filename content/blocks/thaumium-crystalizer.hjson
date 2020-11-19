@@ -17,7 +17,7 @@ consumes: {
   }
   items: {
     items: [
-      thorium/10
+      thorium/1
     ]
     booster: true
     optional: true
