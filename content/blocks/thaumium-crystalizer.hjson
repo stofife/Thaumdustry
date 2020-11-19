@@ -12,9 +12,11 @@ productionTime: 10
 consumes: {
   power: 0.8
   items: {
-    item: thorium/1
-    optional: true
+    items: [
+      thorium/10
+    ]
     booster: true
+    optional: true
   }
   liquid: {
     liquid: diluted-thaumium
