@@ -11,13 +11,14 @@ craftTime: 40
 productionTime: 10
 consumes: {
   power: 0.8
-  liquid: {
-    liquid: cryofluid
-    amount: 0.12
+  items: {
+    items: [
+      thorium
+      amount: 0.12
+    ]
+    optional: true
+    booster: true
   }
-  optional: true
-  booster: true
-
   liquid: {
     liquid: diluted-thaumium
     amount: 0.25
