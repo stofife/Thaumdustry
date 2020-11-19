@@ -1,7 +1,7 @@
 type: GenericSmelter
 flameColor: bb6ede
-name: "Thaumium Crystalizer"
-description: "Extracts pure thaumium from diluted thaumium."
+localizedName: Thaumium Crystalizer
+description: Extracts pure thaumium from diluted thaumium.
 liquidCapacity: 100
 size: 3
 hasPower: true
@@ -12,15 +12,15 @@ productionTime: 10
 consumes: {
   power: 0.8
   liquid: {
-    liquid: diluted-thaumium
-    amount: 0.25
-  }
-  liquid: {
     liquid: cryofluid
     amount: 0.12
     optional: true
     booster: true
   
+  }
+  liquid: {
+    liquid: diluted-thaumium
+    amount: 0.25
   }
 }
 outputItem: thaumium/1
