@@ -2,7 +2,7 @@ type: SingleTypeGenerator
 name: Thaumium Generator
 description: Power UwU.
 size: 3
-hasLiquids: false
+hasLiquids: true
 craftTime: 10
 powerProduction: 16
 itemDuration: 60
