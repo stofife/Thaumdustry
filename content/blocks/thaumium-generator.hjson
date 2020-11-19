@@ -5,11 +5,11 @@ plasmas: 2
 size: 3
 hasLiquids: false
 craftTime: 10
-powerProduction: 16
+powerProduction: 24
 itemDuration: 60
 warmupSpeed: 0.1
 consumes: {
-  power: 16
+  power: 8
   items: {
     items:[
       thaumium/1
