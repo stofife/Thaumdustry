@@ -12,9 +12,8 @@ productionTime: 10
 consumes: {
   power: 0.8
   items: {
-    items: [
-      thorium/0.12
-    ]
+    item: thorium
+    amount: 0.12
     optional: true
     booster: true
   }
