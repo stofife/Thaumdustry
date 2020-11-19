@@ -7,6 +7,7 @@ itemDuration: 80
 lightColor: fbb0ff
 coolColor: 682e6b
 hotColor: ffffff
+liquidCapacity: 100
 consumes: {
   items: {
     items:[
