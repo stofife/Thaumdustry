@@ -9,7 +9,7 @@ powerProduction: 16
 itemDuration: 60
 warmupSpeed: 0.1
 consumes: {
-  power: 10
+  power: 16
   items: {
     items:[
       thaumium/1
