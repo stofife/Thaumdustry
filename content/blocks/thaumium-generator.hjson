@@ -2,14 +2,12 @@ type: ImpactReactor
 name: Thaumium Generator
 description: Power UwU.
 plasmas: 2
-plasma1: f4d9ff
-plasma2: fbc7ff
 liquidCapacity: 100
 size: 3
 hasLiquids: false
 craftTime: 10
 powerProduction: 16
-itemDuration: 30
+itemDuration: 60
 consumes: {
   power: 20
   items: {
