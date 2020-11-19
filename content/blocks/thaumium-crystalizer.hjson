@@ -22,8 +22,6 @@ consumes: {
     liquid: diluted-thaumium
     amount: 0.25
   }
-  optional: false
-  booster: false
 }
 outputItem: thaumium/1
 requirements: [
