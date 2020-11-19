@@ -14,7 +14,8 @@ consumes: {
     ]
   }
   liquid: {
-    water/0.12
+    liquid: water
+    amount: 0.12
   }
 }
 requirements: [
