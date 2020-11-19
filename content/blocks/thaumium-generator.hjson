@@ -1,15 +1,13 @@
-type: ImpactReactor
+type: SingleTypeGenerator
 name: Thaumium Generator
 description: Power UwU.
-plasmas: 2
 size: 3
 hasLiquids: false
 craftTime: 10
-powerProduction: 24
+powerProduction: 16
 itemDuration: 60
-warmupSpeed: 0.1
+generateEffect: reactorsmoke
 consumes: {
-  power: 8
   items: {
     items:[
       thaumium/1
