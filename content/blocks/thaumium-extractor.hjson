@@ -1,10 +1,9 @@
 type: GenericSmelter
 name: "Thaumium Extractor"
 description: "Dilutes thaumium from thaumium ore into water, but requires large amounts of energy to do so."
-flameColor: d280ff
 liquidCapacity: 100
 outputLiquid: {
-  liquid: diluted-thaumium
+  liquid: thaumium-water
   amount: 10
 }
 size: 2
