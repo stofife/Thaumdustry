@@ -11,16 +11,16 @@ craftTime: 40
 productionTime: 10
 consumes: {
   power: 0.8
+  liquid: {
+    liquid: diluted-thaumium
+    amount: 0.25
+  }
   items: {
     items: [
       thorium/10
     ]
     booster: true
     optional: true
-  }
-  liquid: {
-    liquid: diluted-thaumium
-    amount: 0.25
   }
 }
 outputItem: thaumium/1
