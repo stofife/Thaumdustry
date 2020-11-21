@@ -6,6 +6,7 @@ powerProduction: 40
 itemDuration: 80
 liquidCapacity: 100
 lightColor: f1bdff
+hotColor: c22f91
 consumes: {
   items: {
     items:[
