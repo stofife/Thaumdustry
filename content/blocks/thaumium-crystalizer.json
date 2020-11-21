@@ -8,7 +8,7 @@
   "hasPower": true,
   "hasLiquids": true,
   "hasItems": true,
-  "updateEffect": "steam",
+  "updateEffect": "smelt",
   "craftEffect": "mine",
   "craftTime": 40,
   "productionTime": 10,
