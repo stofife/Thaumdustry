@@ -2,6 +2,6 @@
     "type": "resource",
     "name": "Raw Thaumium",
     "description": "A piece of rock infused with thaumium.",
-    "hardness": 4,
-    "cost": 2
+    "color": "633d8a",
+    "hardness": 4
 }
