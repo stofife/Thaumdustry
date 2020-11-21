@@ -1,7 +1,7 @@
 {
     "type": "Battery",
     "name": "Thaumium Battery",
-    "description": "Stored much more power than a large battery.",
+    "description": "Stores a lot more power than a large battery.",
     "size": 3,
     "emptyLightColor": "624171",
     "fullLightColor": "b27eca",
