@@ -8,6 +8,8 @@
   "hasPower": true,
   "hasLiquids": true,
   "hasItems": true,
+  "updateEffect": "steam",
+  "craftEffect": "mine",
   "craftTime": 40,
   "productionTime": 10,
   "consumes": {
