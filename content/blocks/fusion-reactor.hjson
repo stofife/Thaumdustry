@@ -5,7 +5,7 @@ size: 5
 powerProduction: 40
 itemDuration: 80
 lightColor: f1bdff
-coolColor: 9451b2
+coolColor: 53275e
 hotColor: 9451b2
 liquidCapacity: 100
 consumes: {
