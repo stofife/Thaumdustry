@@ -5,6 +5,7 @@ size: 5
 powerProduction: 40
 itemDuration: 80
 liquidCapacity: 100
+lightColor: f1bdff
 consumes: {
   items: {
     items:[
@@ -12,8 +13,8 @@ consumes: {
     ]
   }
   liquid: {
-    liquid: water
-    amount: 0.48
+    liquid: cryofluid
+    amount: 0.24
   }
 }
 requirements: [
