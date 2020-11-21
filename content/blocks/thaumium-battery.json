@@ -1,10 +1,18 @@
 {
     "type": "Battery",
+    "name": "Thaumium Battery",
+    "description": "Stored much more power than a large battery.",
     "emptyLightColor": "624171",
     "fullLightColor": "b27eca",
-    "consumes": {
-        "power": 1.2
-    },
+    "hasPower": true,
+	"outputsPower": true,
+	"consumesPower": true,
+	"canOverdrive": false,
+	"health": 600,
+	"consumes": {
+        "powerBuffered": 200000,
+        "power": 0.12
+	},
     "requirements": [
         "titanium/40",
         "lead/80",
