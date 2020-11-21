@@ -1,0 +1,29 @@
+{
+  "type": "SingleTypeGenerator",
+  "name": "Thaumium Generator",
+  "description": "Power UwU.",
+  "size": 3,
+  "hasLiquids": true,
+  "powerProduction": 16,
+  "itemDuration": 60,
+  "generateEffect": "reactorsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        "thaumium/1"
+      ]
+    },
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.12
+    }
+  },
+  "requirements": [
+    "titanium/200",
+    "thorium/100",
+    "silicon/160",
+    "metaglass/80",
+    "thaumium/80"
+  ],
+  "category": "power"
+}

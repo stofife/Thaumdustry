@@ -1,0 +1,7 @@
+{
+    "name": "Thaumium water",
+    "description": "Thaumium dissolved in water.",
+    "heatCapacity": 1.5,
+    "color": "ab66d9",
+    "lightColor": "edc4ff"
+}

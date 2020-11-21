@@ -1,0 +1,31 @@
+{
+  "type": "GenericCrafter",
+  "name": "Thaumium Extractor",
+  "description": "Dilutes thaumium from thaumium ore into water, but requires large amounts of energy to do so.",
+  "liquidCapacity": 100,
+  "outputLiquid": {
+    "liquid": "thaumium-water",
+    "amount": 10
+  },
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": true,
+  "craftTime": 60,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 1.2,
+    "item": "raw-thaumium",
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.12
+    }
+  },
+  "requirements": [
+    "lead/400",
+    "thorium/150",
+    "graphite/200"
+  ],
+  "idleSound": "machine",
+  "idleSoundVolume": 0.25,
+  "category": "crafting"
+}
