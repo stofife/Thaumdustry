@@ -1,0 +1,12 @@
+{
+    "type": "Battery",
+    "emptyLightColor": "624171",
+    "fullLightColor": "b27eca",
+    "requirements": [
+        "titanium/40",
+        "lead/80",
+        "silicon/40",
+        "thaumium/20"
+      ],
+    "category": "power"
+}

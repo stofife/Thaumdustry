@@ -5,6 +5,7 @@
   "size": 5,
   "powerProduction": 40,
   "itemDuration": 80,
+  "updateEffect": "generate",
   "liquidCapacity": 100,
   "lightColor": "f1bdff",
   "hotColor": "c22f91",
