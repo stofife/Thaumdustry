@@ -4,9 +4,6 @@ description: Experimental reactor that uses the fusion of hydrogen molecules to 
 size: 5
 powerProduction: 40
 itemDuration: 80
-lightColor: f1bdff
-coolColor: 53275e
-hotColor: 9451b2
 liquidCapacity: 100
 consumes: {
   items: {
