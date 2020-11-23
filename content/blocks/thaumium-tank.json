@@ -1,0 +1,18 @@
+{
+    "type": "LiquidTank",
+    "name": "Thaumium Tank",
+    "description": "Stores a lot more liquids than a liquid tank.",
+    "size": 6,
+    "health": 600,
+    "hasLiquids": true,
+    "group": "liquids",
+    "outputsLiquid": true,
+    "liquidCapacity": 50000,
+    "requirements": [
+        "titanium/40",
+        "lead/80",
+        "silicon/40",
+        "thaumium/20"
+      ],
+    "category": "power"
+}
