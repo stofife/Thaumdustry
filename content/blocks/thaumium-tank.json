@@ -7,12 +7,12 @@
     "hasLiquids": true,
     "group": "liquids",
     "outputsLiquid": true,
-    "liquidCapacity": 50000,
+    "liquidCapacity": 6000,
     "requirements": [
         "titanium/40",
         "lead/80",
         "silicon/40",
         "thaumium/20"
       ],
-    "category": "power"
+    "category": "liquid"
 }
