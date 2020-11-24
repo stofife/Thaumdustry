@@ -9,7 +9,7 @@
     "outputsLiquid": true,
     "liquidCapacity": 6000,
     "requirements": [
-        "titanium/40",
+        "metaglass/60",
         "lead/80",
         "silicon/40",
         "thaumium/20"
